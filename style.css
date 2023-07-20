@@ -41,5 +41,61 @@ header p {
 }
 
 form {
-    border: 1px solid read;
+    margin-top: 42px;
+    border-radius: 8px 8px 0 0;
+    background: #FAFAFC;
+}
+
+h2 {
+    padding-top: 64px;
+    padding-bottom: 16px;
+    margin-left: 64px;
+    margin-right: 64px;
+    font-family: 'Archivo', sans-serif;
+    font-size: 24px;
+    line-height: 34px;
+    border-bottom: 1px solid #e6e6f0;
+
+}
+
+#box1 {
+    
+    margin-left: 64px;
+    margin-right: 64px;
+    font-size: 14px;
+}
+
+#box1 span {
+    color: #C1BCCC;
+    font-family: Poppins;
+    font-size: 12px;
+}
+
+#box1 input {
+    width: 608px;
+    height: 56px;
+    border-radius: 8px;
+    margin-top: 8px;
+    border: 1px solid #e6e6f0;
+}
+
+#boxInfo {
+    
+    margin-left: 64px;
+    margin-right: 64px;
+    font-size: 14px;
+}
+
+#boxInfo span {
+    color: #C1BCCC;
+    font-family: Poppins;
+    font-size: 12px;
+}
+
+#boxInfo input {
+    width: 608px;
+    height: 168px;
+    border-radius: 8px;
+    margin-top: 8px;
+    border: 1px solid #e6e6f0;
 }
