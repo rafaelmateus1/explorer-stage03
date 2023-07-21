@@ -178,3 +178,30 @@ h2 {
     width: 20px;
     height: 20px;
 }
+
+#form-button {
+    width: 736px;
+    height: 136px;
+    border-radius: 0px 0px 8px 8px;
+    background: #F0F0F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    border-top: 1px solid #D6D6D6;
+}
+#form-button button{
+    width: 608px;
+    height: 56px;
+    border-radius: 8px;
+    border: none;
+    background: #04D361;
+    color: #FFF;
+    font-family: Archivo;
+    font-size: 16px;
+    font-style: normal;
+}
+
+#form-button button:hover {
+    background: #07ab51;
+}
