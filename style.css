@@ -142,7 +142,7 @@ h2 {
     margin-right: 64px;
     font-size: 14px;
     display: flex;
-    gap: 100px;
+    gap: 50px;
 }
 
 #box2 span {
@@ -164,7 +164,7 @@ h2 {
     color: #C1BCCC;
 }
 #campoData {
-    width: 100%;
+    width: 312px;
 }
 #boxCheckBox {
     margin-left: 64px;
@@ -190,7 +190,7 @@ h2 {
     margin-bottom: 100px;
     border-top: 1px solid #D6D6D6;
 }
-#form-button button{
+#form-button input{
     width: 608px;
     height: 56px;
     border-radius: 8px;
@@ -202,6 +202,10 @@ h2 {
     font-style: normal;
 }
 
-#form-button button:hover {
+#form-button input:hover {
     background: #07ab51;
+}
+
+#box1 input:invalid {
+    border: 1px solid rgb(224, 14, 14);
 }

@@ -18,19 +18,19 @@
             formulário de inscrição.</p>
         </header>
         
-        <form action="">
+        <form id="my-form">
             <h2>Informações do Evento</h2>
                 <div id="box1"> 
                     <label for="titulo">Título do Evento <span>(mínimo 8 caracteres)</span></label>
-                    <br><input type="text">
+                    <br><input type="text" required minlength="8">
                 </div>
                 <div id="box1"> 
                     <label for="titulo">Link do evento <span>(comece com https://)</span></label>
-                    <br><input type="text">
+                    <br><input type="url">
                 </div>
                 <div id="box1"> 
                     <label for="titulo">Whatsapp para contato <span>(somente números)</span></label>
-                    <br><input type="text">
+                    <br><input type="number">
                 </div>
                 <div id="boxInfo"> 
                     <label for="titulo">Informações extras</label>
@@ -75,7 +75,7 @@
         </form>
        
         <div id="form-button">
-            <button>Salvar evento</button>
+            <input class="button" type="submit" value="Salvar Evento" form="my-form"></input>
         </div>
 
     </div>
