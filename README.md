@@ -1,3 +1,10 @@
 # explorer-stage03
 
-Criação de um formulário
+# Descrição do Projeto
+Formulário - Projeto da Rocketseat.
+
+# Tecnologias
+
+- HTML
+- CSS
+- Git e Github
