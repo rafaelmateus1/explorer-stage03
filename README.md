@@ -1,9 +1,9 @@
 # explorer-stage03
 
 # Descrição do Projeto
-Formulário - Projeto da Rocketseat.
+Trabalhando com Grid no CSS - Projeto da Rocketseat.
 
-<img src="./assets/Screenshot_20231007_155851.png" alt="Formulario">
+<img src="./galaxies_img.png" alt="Formulario">
 
 # Tecnologias
 
@@ -12,4 +12,4 @@ Formulário - Projeto da Rocketseat.
 - Git e Github
 
 # Github Pages
-https://rafaelmateus1.github.io/explorer-stage03/
+https://rafaelmateus1.github.io/galaxies/
